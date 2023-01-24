@@ -1,0 +1,146 @@
+.body{
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+    
+    }
+.me{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
+.top-container {
+    padding-top: 100px ;
+    margin: 0px;
+    height: 600px;
+    width: 1300px;
+    
+}
+.middle-container {
+   
+    height: 500px;
+    width: 1300px;
+   
+   
+}
+.skills {
+   
+    height: 400px;
+    width: 1300px; 
+}
+
+.skills-soft {
+   
+    height: 450px;
+    width: 1300px;
+}
+
+h1{
+    
+    font-family: Raleway;
+    font-size: 5.625rem;
+    margin-top: 30px;
+}
+h2{
+   
+    font-family: Raleway;
+    font-size: 2.5rem;
+    margin-top: 0px; 
+}
+h3{
+   
+    font-family: Raleway;
+    font-size: 1.6rem;
+    margin-top: 0px; 
+}
+
+.H1{ 
+    
+    display: inline;
+    position: absolute;
+    top: 100px;
+    left: 30px;
+}
+.H2{
+    
+    display: inline;
+    position: absolute;
+    top: 250px;
+    left: 30px;
+  
+}
+p{
+    font-size: 150%;
+    margin: 0px;
+    font-family: Patrick Hand;
+    
+}
+
+
+.p1 {
+ height: 200px;
+ width: 300px;
+}
+.p2{
+    height: 400px;
+}
+.hello{
+    height: 400px;
+}
+.lin{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 22px;
+    right: 128px;
+}
+.em{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 21px;
+    right: 68px;
+}
+.ins{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 26px;
+    right: 16px;
+}
+
+.hello{ 
+
+    position: absolute;
+    right: 690px;
+}
+.profile{
+    display: inline;
+    position: absolute;
+    right: 30px;
+
+}
+
+.p1{ 
+
+    position: absolute;
+    right: 110px;
+}
+.skills-row{
+    height: 50px;
+
+    display: inline;
+    position: absolute;
+    left: 150px;
+
+}
+.soft{
+    display: inline;
+    position: absolute;
+    right: 10px;
+}
+p1{
+    display: block;
+    font-family: Raleway;
+    font-size: 1.6rem;
+    margin-top: 0px; 
+}
